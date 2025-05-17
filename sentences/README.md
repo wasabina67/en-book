@@ -13,3 +13,7 @@ We decided to perform the research to summarise all these feature requests.
 Regarding vulnerabilities, no new vulnerabilities are found.
 
 So actually JP and CN… tasks like AI integration.
+
+We discussed the new feature … using web assembly code for report layout.
+
+The second feature is the new Excel export, which is … waiting for years to be revised.
