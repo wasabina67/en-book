@@ -7,3 +7,9 @@ I'm not very good at English, but I'll try my best. Nice to meet you!
 So during the last Sprint, we continue our research about major version 12 features.
 
 We are taking some cases in advance for the service pack and also fixing some cases for the next year service pack for the 12 version.
+
+We decided to perform the research to summarise all these feature requests.
+
+Regarding vulnerabilities, no new vulnerabilities are found.
+
+So actually JP and CN… tasks like AI integration.
